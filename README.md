@@ -1,28 +1,25 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF9B25&random=false&width=210&height=30&lines=Hi%2C+I'm+manghidev" alt="Typing SVG" />
-</h1>
+<div style="padding-left: 25px; padding-right: 25px">
 
-<h4 align="center">
-  Engineer 👨🏽‍💻 with just over 5 years of experience 🚀 in software development 🖥️. 😅 Passionate about technology 👨🏽‍💻, video games 🎮 and mangoes 🥭.
-</h4>
+<img style="float: right; padding-left: 15px; width:200px;" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
 
-<div align="center">
+<div style="padding-right: 15px;" align="left">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF9B25&random=false&width=210&height=30&lines=Hi%2C+I'm+manghidev" alt="Typing SVG"/>
+  </h1>
 
-  [![Twitch Status](https://img.shields.io/twitch/status/manghidev?style=social)](https://twitch.com/manghidev)
+  <h4 align="center">
+    Engineer 👨🏽‍💻 with just over 5 years of experience 🚀 in software development 🖥️. 😅 Passionate about technology 👨🏽‍💻, video games 🎮 and mangoes 🥭.
+  </h4>
 
-  [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/manghidev)](https://x.com/manghidev)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/manghidev)
-
+  <div align="center">
+    <img src="https://img.shields.io/twitch/status/manghidev" alt="TwitchStatus"/>
+    <h3>
+      🛠️ Languages and Tools
+    </h3>
+    <img width="65%" src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,flutter,nodejs,angular,docker,linux,raspberrypi,firebase,aws"/>
+  </div>
 </div>
 
-<h3>
-  🛠️ Languages and Tools
-</h3>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,flutter,nodejs,angular,docker,linux,raspberrypi,firebase,aws"/>
-  </a>
 </div>
