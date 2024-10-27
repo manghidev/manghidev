@@ -1,11 +1,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
-<div style="padding-left: 25px; padding-right: 25px">
+<div style="padding-top: 25px; padding-left: 25px; padding-right: 25px">
 
 <img style="padding-left: 15px; width:200px;" align="right" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
 
 <div style="padding-right: 15px;" align="left">
-  <div style="padding-top: 50px;" align="center">
+  <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EF9B25&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+manghidev" alt="Typing SVG" />
   </div>
 
