@@ -6,7 +6,7 @@
 
 <div style="padding-right: 15px;" align="left">
   <div style="padding-top: 50px;" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF9B25&random=false&width=210&height=30&lines=Hi%2C+I'm+manghidev" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EF9B25&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+manghidev" alt="Typing SVG" />
   </div>
 
   <h4 align="center">
