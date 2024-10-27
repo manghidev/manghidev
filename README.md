@@ -2,7 +2,7 @@
 
 <div style="padding-left: 25px; padding-right: 25px">
 
-<img style="float: right; padding-left: 15px; width:200px;" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
+<img style="padding-left: 15px; width:200px;" align="right" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
 
 <div style="padding-right: 15px;" align="left">
   <h1 align="center">
