@@ -5,9 +5,9 @@
 <img style="padding-left: 15px; width:200px;" align="right" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
 
 <div style="padding-right: 15px;" align="left">
-  <h1 align="center">
+  <div style="padding-top: 50px;" align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF9B25&random=false&width=210&height=30&lines=Hi%2C+I'm+manghidev" alt="Typing SVG"/>
-  </h1>
+  </div>
 
   <h4 align="center">
     Engineer 👨🏽‍💻 with just over 5 years of experience 🚀 in software development 🖥️. 😅 Passionate about technology 👨🏽‍💻, video games 🎮 and mangoes 🥭.
