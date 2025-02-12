@@ -1,9 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
   
 <div align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EF9B25&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+manghidev" alt="Typing SVG" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EF9B25&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+manghidev" alt="Typing SVG" />
 
   <h4 align="center">
     Engineer 👨🏽‍💻 with just over 5 years of experience 🚀 in software development 🖥️. 😅 Passionate about technology 👨🏽‍💻, video games 🎮 and mangoes 🥭.
