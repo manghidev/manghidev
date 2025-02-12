@@ -14,7 +14,7 @@
     <h3>
       🛠️ Languages and Tools
     </h3>
-    <img align="center" width="75%" src="https://skillicons.dev/icons?i=github,gitlab,vscode,tailwind,bootstrap,flutter,nextjs,angular,nodejs,docker,firebase,aws,postgres,mysql,"/>
+    <img align="center" width="65%" src="https://skillicons.dev/icons?i=github,gitlab,vscode,tailwind,bootstrap,flutter,nextjs,angular,nodejs,docker,firebase,aws,postgres,mysql"/>
     <h3>
       <img style="width:200px;" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
     </h3>
