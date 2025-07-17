@@ -1,0 +1,63 @@
+name: 🤖 Auto-update Experience Badge
+
+on:
+  schedule:
+    # Runs on the first day of each month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-experience:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🧮 Calculate years of experience
+      id: calculate
+      run: |
+        YEARS=$(node -e "
+        const startDate = new Date('2018-08-13');
+        const currentDate = new Date();
+        const diffTime = Math.abs(currentDate - startDate);
+        const diffYears = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365.25));
+        console.log(diffYears);
+        ")
+        echo "Current years of experience: $YEARS"
+        echo "years=$YEARS" >> $GITHUB_OUTPUT
+        
+    - name: 📝 Update README with new experience
+      run: |
+        YEARS="${{ steps.calculate.outputs.years }}"
+        echo "Updating README with $YEARS years of experience"
+        
+        # Buscar y reemplazar cualquier número de años en el badge
+        sed -i "s/[0-9]\+%2B-years%20of%20experience/${YEARS}%2B-years%20of%20experience/g" README.md
+        
+        # Verificar si hubo cambios
+        if git diff --quiet README.md; then
+          echo "No changes needed - already up to date"
+        else
+          echo "README updated successfully"
+          git diff README.md
+        fi
+        
+    - name: 🚀 Commit and push changes
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        if git diff --quiet README.md; then
+          echo "No changes to commit"
+        else
+          git add README.md
+          git commit -m "🤖 Auto-update: Experience badge to ${{ steps.calculate.outputs.years }}+ years
+          
+          - Updated from 2018-08-13 to $(date -u +%Y-%m-%d)
+          - Automated via GitHub Actions"
+          git push
+          echo "✅ Changes committed and pushed successfully!"
+        fi
