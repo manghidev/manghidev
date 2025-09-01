@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EF9B25&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+manghidev;Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
   <h2 align="center">
-    Software Engineer 👨🏽‍💻 with <img src="https://img.shields.io/badge/6%2B-years%20of%20experience-EF9B25?style=flat-square&logo=calendar&logoColor=white" alt="Years of Experience" /> 🚀 in software development 🖥️
+    Software Engineer 👨🏽‍💻 with <img src="https://img.shields.io/badge/7%2B-years%20of%20experience-EF9B25?style=flat-square&logo=calendar&logoColor=white" alt="Years of Experience" /> 🚀 in software development 🖥️
   </h2>
   
   <p align="center">
