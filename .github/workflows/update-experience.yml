@@ -34,10 +34,10 @@ jobs:
         YEARS="${{ steps.calculate.outputs.years }}"
         echo "Updating README with $YEARS years of experience"
         
-        # Buscar y reemplazar cualquier número de años en el badge
+        # Search and replace any number of years in the badge
         sed -i "s/[0-9]\+%2B-years%20of%20experience/${YEARS}%2B-years%20of%20experience/g" README.md
         
-        # Verificar si hubo cambios
+        # Verify if there were changes
         if git diff --quiet README.md; then
           echo "No changes needed - already up to date"
         else

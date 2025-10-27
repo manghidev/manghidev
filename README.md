@@ -31,24 +31,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,java,dotnet,cs&theme=dark" />
   
   ### Database & Cloud
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,prisma,aws,gcp,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,prisma,aws,gcp,cloudflare&theme=dark" />
   
   ### Tools & Others
-  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,cloudflare,linux,apple,discordjs,nginx,electron,webpack&theme=dark" />
-
-  ## 📊 GitHub Stats
-  <div align="center">
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-      <img style="height: 180px; max-width: 48%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=manghidev&show_icons=true&theme=darkhub&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-      <img style="height: 180px; max-width: 48%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manghidev&layout=compact&langs_count=8&theme=darkhub&hide_border=true&bg_color=0D1117" />
-    </div>
-  </div>
-
-  <!--div align="center">
-    ## 🎵 Currently Playing
-    
-    <img style="width:30%;" src="https://music-profile.rayriffy.com/theme/light.svg?uid=000102.207899e3f0ed47caa256a0f255dc22ba.1703" alt="AppleMusic"/>
-  </div-->
+  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,docker,linux,apple,discordjs,nginx,electron,webpack&theme=dark" />
 
   ## 🌟 Recent Activity
   <div align="center">
