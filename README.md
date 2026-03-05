@@ -15,7 +15,7 @@
     <a href="https://twitch.tv/manghidev" target="_blank">
       <img src="https://img.shields.io/twitch/status/manghidev?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF" alt="TwitchStatus"/>
     </a>
-    <a href="https://github.com/manghidev" target="_blank">
+    <a href="https://github.com/manghidev?tab=followers" target="_blank">
       <img src="https://img.shields.io/github/followers/manghidev?style=for-the-badge&logo=github&logoColor=white&color=333" alt="GitHub followers"/>
     </a>
   </div>
