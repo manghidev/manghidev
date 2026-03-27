@@ -13,7 +13,7 @@
 
   <div align="center">
     <a href="https://twitch.tv/manghidev" target="_blank">
-      <img src="https://img.shields.io/twitch/status/manghidev?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF" alt="TwitchStatus"/>
+      <img src="https://badges.amoxcalli.dev/api/v1/twitch/badge/status/manghidev" alt="TwitchStatus"/>
     </a>
     <a href="https://github.com/manghidev?tab=followers" target="_blank">
       <img src="https://badges.amoxcalli.dev/api/v1/github/badge/followers/manghidev" alt="GitHub followers"/>
@@ -21,7 +21,7 @@
   </div>
 
   <div align="center">
-    <a href="https://github.com/manghidev?tab=followers" target="_blank">
+    <a href="https://github.com/AmoxcalliDev" target="_blank">
       <img src="https://badges.amoxcalli.dev/api/v1/github/badge/contributor/AmoxcalliDev/manghidev" alt="GitHub Contributor"/>
     </a>
   </div>
