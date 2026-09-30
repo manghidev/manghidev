@@ -42,11 +42,6 @@
   ### Tools & Others
   <img src="https://skillicons.dev/icons?i=git,vscode,neovim,docker,linux,apple,discordjs,nginx,electron,webpack&theme=dark" />
 
-  ## 🌟 Recent Activity
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manghidev&theme=darkhub&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph"/>
-  </div>
-
   <br>
   
   <div align="center">
